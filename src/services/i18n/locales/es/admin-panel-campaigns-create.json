@@ -1,0 +1,10 @@
+{
+  "title": "Create campaign",
+  "actions": { "submit": "Save", "cancel": "Cancel" },
+  "inputs": {
+    "<system>": "Do not remove this property"
+  },
+  "alerts": {
+    "success": "Campaign has been created successfully"
+  }
+}
